@@ -9,6 +9,8 @@ You can now track files that should not be world viewable or require special per
 
 `rsync` (version 3.1 or newer) needs to be available on the system and runnuble by the user executing `dotbot`
 
+On windows use `cwrsync`
+
 ## Usage
 
 Add the plugin as a submodule to your dotfiles repo:
