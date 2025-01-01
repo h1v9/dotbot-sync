@@ -14,7 +14,7 @@ You can now track files that should not be world viewable or require special per
 Add the plugin as a submodule to your dotfiles repo:
 
 ```
-git submodule add https://github.com/j1r1k/dotbot-sync.git
+git submodule add https://github.com/h1v9/dotbot-sync.git
 ```
 
 Execute `dotbot` with plugin parameter
